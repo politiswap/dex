@@ -9423,8 +9423,8 @@
                             { label: "Liquidity", href: "/pool" },
                         ],
                     },
-                    { label: "Farms", icon: "FarmIcon", href: "https://politiswap.finance/farms" },
-                    { label: "Pools", icon: "PoolIcon", href: "https://politiswap.finance/syrup" },
+                    { label: "Farms (coming soon)", icon: "FarmIcon", href: "" },
+                    { label: "Pools (coming soon)", icon: "PoolIcon", href: "" },
                 ],
                 dd = function (e) {
                     var n = Object(g.c)(),
